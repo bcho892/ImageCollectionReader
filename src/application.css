@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.slider .track {
+	-fx-pref-height: 25px;
+	-fx-background-color: white;
+	
+}
+
+.slider .thumb {
+	-fx-pref-height: 25px;
+	-fx-background-color: #d6cec3;
+	-fx-border-radius: 0px;
+}
+
